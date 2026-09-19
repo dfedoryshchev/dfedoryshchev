@@ -8,6 +8,11 @@ What's here:
 
 Upstream: 100+ merged pull requests, in the OpenAI and Hugging Face SDKs, Microsoft's onnxscript, docling, deepset's haystack, vite, react-router and a dozen more.
 
-Writing: five [HackerNoon articles](https://hackernoon.com/u/fedoryshchev) and three recorded webinars, from system architecture to agentic development: [choosing the right architecture](https://www.youtube.com/live/p7meNmEihRw), [turning a messy codebase into something you can work with](https://www.youtube.com/live/AWfERAck9tE), [keeping AI-written code safe to change](https://www.youtube.com/watch?v=c4e3OBd2xbI).
+Writing: [HackerNoon articles](https://hackernoon.com/u/fedoryshchev) and recorded webinars, from system architecture to agentic development:
+- [From idea validation to scale: how to choose the right architecture](https://www.youtube.com/live/p7meNmEihRw)
+- [Turning a messy codebase into something you can actually work with](https://www.youtube.com/live/AWfERAck9tE)
+- [Legacy in months, not years: keeping AI-written code safe to change](https://www.youtube.com/watch?v=c4e3OBd2xbI)
 
-Elsewhere: [LinkedIn](https://www.linkedin.com/in/dife).
+Judge at [AI Slop Scan 2026](https://slopscan.dev/#judges).
+
+Happy to connect on [LinkedIn](https://www.linkedin.com/in/dife).
